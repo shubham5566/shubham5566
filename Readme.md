@@ -98,11 +98,14 @@
 
 ## 📈 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham5566&show_icons=true&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham5566&show_icons=true&theme=react" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5566&layout=compact&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5566&layout=compact&theme=react" alt="Top Languages" />
+</p>
 
----
 
 ## 🔗 Connect With Me
 
